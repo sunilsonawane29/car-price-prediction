@@ -40,6 +40,10 @@ Contributions are welcome! If you have ideas for improvement or find any issues,
 
 Credits and Acknowledgments 👏
 I would like to acknowledge the open-source community and libraries like scikit-learn, pandas, and matplotlib for their invaluable contributions to this project.
+# Clone the repository
+git clone https://github.com
 
+# Install dependencies
+npm install
 Happy Coding! 🚀
 
